@@ -48,7 +48,7 @@ public class H02Calculator {
 			};
 			
 			System.out.printf("%s = %d\n", sum, value);
-			System.out.print("continu(y/n)?\n> ");
+			System.out.print("continue(y/n)?\n> ");
 			toNext = sc.nextLine();
 
 		} while(toNext.equalsIgnoreCase("y"));
