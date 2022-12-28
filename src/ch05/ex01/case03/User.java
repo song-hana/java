@@ -1,7 +1,7 @@
 package ch05.ex01.case03;
 
 public class User {
-	private String userName;
+	private String userName;  //encapsulation
 	private int age;
 	
 	public void setUserName(String userName) {  // setter
