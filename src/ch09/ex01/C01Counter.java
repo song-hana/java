@@ -1,6 +1,6 @@
 package ch09.ex01;
 
-public class C01Conuter {
+public class C01Counter {
 	public static void main(String[] args) {
 		System.out.println("main start.");
 		
